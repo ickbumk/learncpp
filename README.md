@@ -20,3 +20,14 @@ Copy and paste the SSH key to github by going to the Github SSH Settings. You ne
 ```bash
 ssh -T git@github.com
 ```
+
+## Getting started with Visual Studio Code
+
+Install VS code, then
+
+```bash
+sudo apt-get update
+sudo apt-get install build-essential gdb
+
+```
+
