@@ -1,3 +1,6 @@
+#include <iostream>
+
+
 void doPrint(){
     std::cout << "In doPrint()\n";
 }
@@ -5,8 +8,8 @@ void doPrint(){
 int main()
 {
     std::cout << "Starting main() \n";
-    doPrint(0;
-    std::cout << "Ending main() \n";)
+    doPrint();
+    std::cout << "Ending main() \n";
 
     return 0;
 }
